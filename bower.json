@@ -1,0 +1,31 @@
+{
+    "name": "sticky-section-header",
+    "version": "1.0.0",
+    "homepage": "http://polarblau.github.io/stickySectionHeaders/",
+    "authors": [
+        "Florian Plank",
+        "Tianzhen Lin <tangent@usa.net>"
+    ],
+    "description": "iOS-style Sticky Headers with jQuery",
+    "main": "src/jquery.stickysectionheaders.js",
+    "keywords": [
+        "sticky headers",
+        "jQuery",
+        "iOS-style contact list"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tangentlin/stickySectionHeaders.git"
+    },
+    "dependencies": {
+        "jquery": "~1.11.2"
+    }
+}
