@@ -1,5 +1,5 @@
 {
-    "name": "sticky-section-header",
+    "name": "my-sticky-section-header",
     "version": "1.0.0",
     "homepage": "http://polarblau.github.io/stickySectionHeaders/",
     "authors": [
@@ -23,7 +23,7 @@
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/tangentlin/stickySectionHeaders.git"
+      "url": "https://github.com/ShmouelAttali/stickySectionHeaders.git"
     },
     "dependencies": {
         "jquery": "~1.11.2"
